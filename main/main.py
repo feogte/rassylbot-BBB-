@@ -12,8 +12,8 @@ from aiogram.fsm.state import State, StatesGroup
 from aiogram.fsm.storage.memory import MemoryStorage
 from aiogram.types import CallbackQuery, InlineKeyboardButton, InlineKeyboardMarkup, Message
 
-BOT_TOKEN = "8615096995:AAGIep-U5ZYgzZW02e-qyWpxUs_3_2YXF7Y"
-OWNER_ID = 8872934046
+BOT_TOKEN = "8869528592:AAEEHw7E0an-LDrm4Fz3Qe4z7SqraFO2W_w"
+OWNER_ID = 8634266032
 
 DEFAULT_SOURCE_CHANNEL_ID = -1004328683164
 DEFAULT_TARGET_CHAT_ID = -1003970374690
